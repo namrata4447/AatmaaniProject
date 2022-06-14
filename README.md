@@ -5,7 +5,7 @@
 ##### express express-websit
 ##### cd express-website/
 ##### npm install
-###### npm install --save nodemailer
+##### npm install --save nodemailer
 ##### npm start
 ##### http://localhost:3000/
 
